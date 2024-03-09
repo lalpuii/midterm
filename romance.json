@@ -1,0 +1,61 @@
+
+{
+    "books": [  
+        {
+            "title": "Pride and Prejudice",
+            "year": 1813,
+            "img": "./images/pride.jpeg",
+            "description":"Pride and Prejudice by Jane Austen is a classic romance novel set in 19th-century England, following the independent-minded Elizabeth Bennet as she navigates love, social conventions, and personal growth.",
+            "rating": "4.3/5 | 4,238,284 ratings"
+        },
+        {
+            "title": "Little Women",
+            "year": 1868,
+            "img": "./images/littlewomen.jpg",
+            "description":"Little Women by Louisa May Alcott follows the lives of the March sisters—Meg, Jo, Beth, and Amy, portraying their journey through adolescence with themes of sisterhood, love, and personal growth.",
+            "rating": "4.15/5 | 2,218,139 ratings"
+        },
+        {
+            "title": "The Notebook",
+            "year": 1996,
+            "img": "./images/thenotebook.jpg",
+            "description":"The Notebook is Nicholas Sparks' tale of love's endurance, tracing the journey of Noah Calhoun and Allie Nelson through decades of obstacles and heartaches, yet ultimately finding solace in each other's arms.",
+            "rating": "4.15/5 | 1,681,591 ratings"
+        }, 
+        {
+            "title": "The Great Gatsby",
+            "year": 1925,
+            "img": "./images/gatsby.jpg",
+            "description":"The Great Gatsby by F. Scott Fitzgerald is a captivating tale that focuses on the mysterious Jay Gatsby's pursuit of the elusive Daisy Buchanan amidst themes of love, ambition, and the allure of wealth.",
+            "rating": "3.93/5 | 5,196,776 ratings"
+        },
+        {
+            "title": "Ugly Love",
+            "year": 2014,
+            "img": "./images/uglylove.jpg",
+            "description":"Ugly Love by Colleen Hoover is a captivating contemporary romance about the complicated relationship between Tate Collins and Miles Archer. This book explores themes of past trauma, secrets, and love.",
+            "rating": "4.06/5 | 1,777,991 ratings"
+        }, 
+        {
+            "title": "Me Before You",
+            "year": 2012,
+            "img": "./images/mebeforeyou.jpg",
+            "description":"Me Before You by Jojo Moyes follows the story of Louisa Clark and Will Traynor who embark on a journey of love and self-discovery as they face challenges that ultimately redefine their understanding of happiness.",
+            "rating": "4.26/5 | 1,617,658 ratings"
+        },
+        {
+            "title": "The Fault in Our Stars",
+            "year": 2012,
+            "img": "./images/stars.jpg",
+            "description":"Little Women by Louisa May Alcott follows the lives of the March sisters—Meg, Jo, Beth, and Amy, portraying their journey through adolescence with themes of sisterhood, love, and personal growth.",
+            "rating": "4.14/5 | 5,103,914 ratings"
+        },
+        {
+            "title": "Water for Elephants",
+            "year": 2006,
+            "img": "./images/elephants.jpg",
+            "description":"In Sara Gruen's Water for Elephants, Jacob Jankowski joins a Depression-era circus after a family tragedy, igniting a forbidden romance with the animal trainer August and his wife Marlena amidst the circus life.",
+            "rating": "4.11/5 | 1,609,287 ratings"
+        }
+    ]
+  }

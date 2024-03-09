@@ -1,0 +1,60 @@
+{
+    "books":[
+        {
+            "title": "Havana Red",
+            "year": 1997,
+            "img": "./images/havana.jpg",
+            "description": "Havana Red by Leonardo Padura is a riveting crime novel set in post-revolutionary Cuba. Detective Mario Conde investigates a murder that uncovers political intrigue and personal betrayals.",
+            "rating": "3.79/5 | 1,766 ratings"
+        },
+        {
+            "title": "The Girl Who Survived",
+            "year": 2022,
+            "img": "./images/girlsurvived.jpg",
+            "description": "The Girl Who Survived by Lisa Jackson is a thrilling mystery centered around Ava Garrison, who returns to her hometown to confront a haunting past of her friend's disappearance and her mother's murder.",
+            "rating": "3.96/5 | 28,027 ratings"
+        },
+        {
+            "title": "Where the Crawdads Sing",
+            "year": 2018,
+            "img": "./images/crawdads.jpg",
+            "description": "Where the Crawdads Sing is a mesmerizing tale by Delia Owens. Abandoned by her family, Kya Clark finds solace in nature. When a local man is found dead, suspicions arise, unraveling the secrets of her past.",
+            "rating": "4.39/5 | 2,949,923 ratings"
+        },
+        {
+            "title": "Verity",
+            "year": 2018,
+            "img": "./images/verity.jpg",
+            "description": "Verity by Colleen Hoover is a riveting thriller about struggling writer Lowen Ashleigh. As she uncovers disturbing truths, the novel takes dark twists, keeping readers enthralled until the final page.",
+            "rating": "4.32/5 | 2,608,657 ratings"
+        },
+        {
+            "title": "The Girl with the Dragon Tattoo",
+            "year": 2005,
+            "img": "./images/dragon.jpg",
+            "description": "The Girl with the Dragon Tattoo by Stieg Larsson is a thrilling mystery centered on journalist Mikael Blomkvist and hacker Lisbeth Salander. Hired to investigate a decades-old disappearance, they unravel family secrets and a complex web of corruption and betrayal.",
+            "rating": "4.17/5 | 3,167,805 ratings"
+        },
+        {
+            "title": "The Silent Patient",
+            "year": 2018,
+            "img": "./images/silent.jpg",
+            "description": "The Silent Patient by Alex Michaelides is a gripping psychological thriller about Alicia Berenson, a painter who shoots her husband and then stops speaking. Psychotherapist Theo Faber becomes obsessed with her case, uncovering dark secrets and unexpected twists.",
+            "rating": "4.18/5 | 2,100,405 ratings"
+        },
+        {
+            "title": "Gone Girl",
+            "year": 2012,
+            "img": "./images/gonegirl.jpg",
+            "description": "Gone Girl by Gillian Flynn is a gripping psychological thriller that begins with the disappearance of Nick Dunne's wife, Amy, on their fifth anniversary. As the investigation unfolds, secrets and lies surface, leaving readers questioning the truth and the nature of their marriage.",
+            "rating": "4.13/5 | 3,070,945 ratings"
+        },
+        {
+            "title": "And Then There Were None",
+            "year": 1939,
+            "img": "./images/none.jpg",
+            "description": "And Then There Were None is a riveting mystery by Agatha Christie where ten strangers, each with a dark secret, are invited to a remote island. As they start dying one by one, paranoia grips the survivors who must uncover the killer among them before it's too late.",
+            "rating": "4.28/5 | 1,342,372 ratings"
+        }
+    ]
+}

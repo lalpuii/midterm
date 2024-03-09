@@ -1,0 +1,60 @@
+{
+    "books":[
+        {
+            "title": "Harry Potter",
+            "year": 1997,
+            "img": "./images/harry.jpg",
+            "description":"Harry Potter and the Sorcerer's Stone follows young Harry as he learns he's a wizard and attends Hogwarts School of Witchcraft and Wizardry. With newfound friends, he uncovers secrets and faces challenges that shape his destiny in the magical world.",
+            "rating": "4.47/5 | 9,976,042 ratings"
+        },
+        {
+            "title": "A Game of Thrones",
+            "year": 1996,
+            "img": "./images/thrones.jpg",
+            "description": "A Game of Thrones by George R.R. Martin tells the story of political power struggles among noble families in the Seven Kingdoms of Westeros. Read along as intense rivalries form in a world where everyone fights for control of the Iron Throne.",
+            "rating": "4.44/5 | 2,476,400 ratings"
+        },
+        {
+            "title": "Twilight",
+            "year": 2005,
+            "img": "./images/twilight.jpg",
+            "description":"Twilight  is a captivating love story set in Forks, Washington, where Bella Swan falls for the mysterious Edward Cullen, who happens to be a vampire. Stephenie Meyer's novel tells an enthralling tale of forbidden love and supernatural secrets.",
+            "rating": "3.65/5 | 6,535,254 ratings"
+        },
+        {
+            "title": "A Wrinkle in Time",
+            "year": 1962,
+            "img": "./images/wrinkle.jpg",
+            "description": "A Wrinkle in Time by Madeleine L'Engle follows Meg Murry, her brother Charles Wallace, and friend Calvin as they journey through time and space to rescue Meg's missing father. Guided by mysterious beings, they face challenges that test their courage and beliefs.",
+            "rating": "3.98/5 | 1,197,408 ratings"
+        },
+        {
+            "title": "Outlander",
+            "year": 1991,
+            "img": "./images/outlander.jpg",
+            "description": "Outlander follows Claire Randall, a WWII nurse who is transported back to 18th-century Scotland. Amidst clan conflict, she navigates love and loyalty between her husband in the 20th century and Jamie Fraser, a Scottish warrior. Diana Gabaldon's novel weaves romance, adventure, and history into a captivating tale of love and survival across time.",
+            "rating": "4.26/5 | 1,046,241"
+        },
+        {
+            "title": "The Song of Achilles",
+            "year": 2011,
+            "img": "./images/song.jpg",
+            "description": "The Song of Achilles is a compelling retelling of the Trojan War, focusing on the deep bond between Patroclus and the legendary hero Achilles. Madeline Miller's novel explores their friendship and love amidst the chaos of ancient Greece. Through vivid storytelling, it delves into themes of loyalty, heroism, and the power of human connection.",
+            "rating": "4.33/5 | 1,456,968 ratings"
+        },
+        {
+            "title": "The Hunger Games",
+            "year": 2008,
+            "img": "./images/hunger.jpg",
+            "description": "The Hunger Games is a gripping dystopian tale set in the nation of Panem, where Katniss Everdeen volunteers to take her sister's place in the deadly Hunger Games—a televised fight to the death between tributes from each district. As she navigates the brutal arena, Katniss must fight for survival against the oppressive Capitol.",
+            "rating": "4.34/5 | 8,602,530 ratings"
+        },
+        {
+            "title": "Divergent",
+            "year": 2011,
+            "img": "./images/divergent.jpg",
+            "description": "Divergent by Veronica Roth is a gripping dystopian tale following Tris Prior, a young woman who discovers she doesn't fit neatly into society's factions. As she navigates initiation rituals and uncovers dark secrets, Tris challenges the system, risking everything for the truth and her freedom.",
+            "rating": "4.14/5 | 3,949,205 ratings"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en" data-bs-theme="auto">
+  <head><script src="../assets/js/color-modes.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.118.2">
+    <title>Album example · Bootstrap v5.3</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+    body {
+        font-family: didot;
+    }
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        width: 100%;
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+      .bd-mode-toggle {
+        z-index: 1500;
+      }
+
+      .bd-mode-toggle .dropdown-menu .active .bi {
+        display: block !important;
+      }
+    </style>
+
+    
+  </head>
+  <body>
+<header data-bs-theme="dark">
+  <div class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container">
+      <a href="./index.html" class="navbar-brand d-flex align-items-center">
+        <strong>Home</strong>
+      </a>
+      <a href="./aboutus.html" class="navbar-brand d-flex align-items-center">
+        <strong>About Us</strong>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section style="text-align: center;">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1>Genres</h1>
+      </div>
+    </div>
+  </section>
+
+  <div class="album py-5 bg-body-tertiary">
+    <div class="container">
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="./images/romance.png">
+            <div class="card-body">
+              <p class="card-text"><strong>Romance</strong> novels promise an escape into the enchanting worlds of desire, 
+                where characters navigate the highs and lows of relationships on their journey to finding true love.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <a href="./romance.html">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="./images/mystery.png">
+            <div class="card-body">
+              <p class="card-text"><strong>Mystery</strong> books pull readers into a world of suspense, intrigue, and discovery. 
+                Dive into the realm of crime, detectives, puzzles, and unexpected twists that will keep you on the edge of your seat.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <a href="./mystery.html">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                  </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="./images/fantasy1.png">
+            <div class="card-body">
+              <p class="card-text"><strong>Fantasy</strong> books transport readers to realms where the impossible becomes reality. 
+                Through epic quests and richly imagined worlds, you can escape into adventures of your own.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <a href="./fantasy.html">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+</main>
+
+<footer class="text-body-secondary py-5">
+  <div class="container">
+    <p class="mb-1">Album example is &copy; Bootstrap</p>
+    </div>
+</footer>
+<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+    </body>
+</html>
